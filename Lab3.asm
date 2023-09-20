@@ -1,6 +1,5 @@
 ##########################################################################
 # Created by:  Talluri, Anish
-#              1967545
 #              23 May 2023
 #
 # Assignment:  Lab 3: Looping with RISC-V Assembly
